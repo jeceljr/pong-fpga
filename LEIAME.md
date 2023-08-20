@@ -15,7 +15,9 @@ Em 2016 houve uma discussão sobre a escrita de um livro usando o processador AP
 desenvolvido no ICMC-USP.
 https://github.com/simoesusp/Processador-ICMC
 
-Como resultado, o Pongo foi portado para a placa DE2 115 da Terasic e depois
+Como resultado, o Pong foi portado para a placa DE2 115 da Terasic e depois
 para a placa DE0 e o código foi reorganizado para ser mais interessante como
 exemplo educacional para o livro.
 
+Com o reinício do livro, o código será convertido para Verilog e a parte específica
+de cada placa será separada.
