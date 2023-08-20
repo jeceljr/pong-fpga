@@ -19,5 +19,4 @@ So Pong was ported to the Terasic DE2 115 board and then to the DE0 board and
 the code was cleaned up to make it more interesting as an educational example
 in the book.
 
-The names and comments in the code are in Portuguese, but they will be
-translated to English.
+Except for this file, all material in this respository is in Portuguese.
