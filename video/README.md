@@ -14,7 +14,7 @@ pattern.
 
 ![color pattern](../gerados/testeCoresVGA.png)
 
-A pattern of vertial and horizontal lines is
+A pattern of vertical and horizontal lines is
 used to test alignment.
 
 ![squares pattern circuit](../gerados/testeQuadradosVGA.svg)
@@ -26,3 +26,10 @@ A simple 8x16 character ROM has its output serialized.
 ![char ROM circuit](../gerados/testeTextoVGA.svg)
 
 ![char ROM output](../gerados/testeTextoVGA.png)
+
+First implementation of a palette circuit using two
+rectangle generators.
+
+![rectangle circuit](../gerados/testeRetangulosVGA.svg)
+
+![rectangle output](../gerados/testeRetangulosVGA.png)
