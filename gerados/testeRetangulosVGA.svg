@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Digital by H.Neemann -->
-<!-- created: Fri Nov 17 20:38:41 BRT 2023 -->
+<!-- created: Mon Mar 18 00:32:30 BRT 2024 -->
 
 <svg
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -175,7 +175,7 @@
 <text text-anchor="start" x="1224.0" y="146.75" fill="#808080" style="font-size:18px">V</text>
 <path d="M 1221,167 L 1228,160 L 1221,153" stroke="#000000" stroke-width="2.0" fill="none"/>
 <text text-anchor="start" x="1231.0" y="166.75" fill="#808080" style="font-size:18px">C</text>
-<text text-anchor="middle" x="1250.0" y="187.5" fill="#808080" style="font-size:18px">VGA Monitor</text>
+<text text-anchor="middle" x="1250.0" y="187.5" fill="#808080" style="font-size:18px">VGA</text>
 <circle cx="1220.0" cy="60.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 <circle cx="1220.0" cy="80.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 <circle cx="1220.0" cy="100.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
@@ -224,7 +224,7 @@
 <text text-anchor="start" x="1504.0" y="346.75" fill="#808080" style="font-size:18px">in3</text>
 <text text-anchor="end" x="1576.0" y="286.75" fill="#808080" style="font-size:18px">num</text>
 <text text-anchor="end" x="1576.0" y="306.75" fill="#808080" style="font-size:18px">any</text>
-<text text-anchor="middle" x="1540.0" y="367.5" fill="#808080" style="font-size:18px">Priority</text>
+<text text-anchor="middle" x="1540.0" y="367.5" fill="#808080" style="font-size:18px">Prioridade</text>
 <circle cx="1500.0" cy="280.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 <circle cx="1500.0" cy="300.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
 <circle cx="1500.0" cy="320.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
