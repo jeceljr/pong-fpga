@@ -395,7 +395,7 @@
       <pos x="860" y="500"/>
     </visualElement>
     <visualElement>
-      <elementName>jogador.dig</elementName>
+      <elementName>jogo.dig</elementName>
       <elementAttributes/>
       <pos x="560" y="540"/>
     </visualElement>
