@@ -163,30 +163,10 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>jogador1</string>
+          <string>borda</string>
         </entry>
       </elementAttributes>
-      <pos x="1200" y="200"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Out</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>placar1</string>
-        </entry>
-      </elementAttributes>
-      <pos x="1200" y="300"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Out</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Label</string>
-          <string>jogador2</string>
-        </entry>
-      </elementAttributes>
-      <pos x="1200" y="400"/>
+      <pos x="1200" y="680"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
@@ -203,20 +183,40 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>bola</string>
+          <string>jogador2</string>
         </entry>
       </elementAttributes>
-      <pos x="1200" y="600"/>
+      <pos x="1200" y="400"/>
     </visualElement>
     <visualElement>
       <elementName>Out</elementName>
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>borda</string>
+          <string>placar1</string>
         </entry>
       </elementAttributes>
-      <pos x="1200" y="680"/>
+      <pos x="1200" y="300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>jogador1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1200" y="200"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>bola</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1200" y="600"/>
     </visualElement>
     <visualElement>
       <elementName>digito.dig</elementName>
@@ -569,12 +569,12 @@
           <long>6</long>
         </entry>
         <entry>
-          <string>intFormat</string>
-          <intFormat>dec</intFormat>
-        </entry>
-        <entry>
           <string>Bits</string>
           <int>5</int>
+        </entry>
+        <entry>
+          <string>intFormat</string>
+          <intFormat>dec</intFormat>
         </entry>
       </elementAttributes>
       <pos x="460" y="760"/>
@@ -641,12 +641,12 @@
           <long>32</long>
         </entry>
         <entry>
-          <string>intFormat</string>
-          <intFormat>dec</intFormat>
-        </entry>
-        <entry>
           <string>Bits</string>
           <int>12</int>
+        </entry>
+        <entry>
+          <string>intFormat</string>
+          <intFormat>dec</intFormat>
         </entry>
       </elementAttributes>
       <pos x="860" y="440"/>
@@ -752,12 +752,12 @@
           <long>316</long>
         </entry>
         <entry>
-          <string>intFormat</string>
-          <intFormat>dec</intFormat>
-        </entry>
-        <entry>
           <string>Bits</string>
           <int>12</int>
+        </entry>
+        <entry>
+          <string>intFormat</string>
+          <intFormat>dec</intFormat>
         </entry>
       </elementAttributes>
       <pos x="800" y="960"/>
