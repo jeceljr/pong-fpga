@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <circuit>
-  <version>1</version>
+  <version>2</version>
   <attributes>
     <entry>
       <string>Description</string>
@@ -19,11 +19,17 @@ sinc:    _________________________________________----------________
 4) POSSINC
 
 A contagem comeca em zero no  inicio da regiao ativa e deve ser menor
-que o valor maximo do contador (2047 com 11 bits) ateh o fim da regiao 4</string>
+que o valor maximo do contador (4095 com 12 bits) ateh o fim da regiao 4</string>
     </entry>
     <entry>
       <string>Label</string>
       <string>temporiza</string>
+    </entry>
+    <entry>
+      <string>romContent</string>
+      <romList>
+        <roms/>
+      </romList>
     </entry>
     <entry>
       <string>Width</string>

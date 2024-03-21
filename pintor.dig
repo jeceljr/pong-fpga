@@ -3,6 +3,12 @@
   <version>2</version>
   <attributes>
     <entry>
+      <string>Description</string>
+      <string>Este bloco transforma o estado do jogo numa imagem visivel na tela usando
+a informacao das coordenadas x e y do ponto que esta sendo desenhado na
+tela neste instante.</string>
+    </entry>
+    <entry>
       <string>Label</string>
       <string>pintor</string>
     </entry>

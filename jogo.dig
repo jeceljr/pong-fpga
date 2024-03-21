@@ -3,6 +3,14 @@
   <version>2</version>
   <attributes>
     <entry>
+      <string>Description</string>
+      <string>Todo o estado que representa o jogo (placares, posicoes dos jogadores
+e posicao da bola) eh modificado neste bloco de acordo com os
+sinais vindo da entrada. Este pode ser um circuito muito lento jah
+que nao adianta modificar o estado mais que uma vez por imagem de
+video, que eh atualizado umas 60 vezes por segundo</string>
+    </entry>
+    <entry>
       <string>Label</string>
       <string>jogo</string>
     </entry>

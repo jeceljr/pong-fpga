@@ -11,12 +11,12 @@ The design evolved over the next few days during each lunch hour, with
 the field on the first day, paddles and balls on the second, then PS/2
 keyboard interface and finally the scores on the last day of the fair.
 
-In 2016 there were discussions about writing a book around the AP9 processor
-developed at ICMC-USP.
-https://github.com/simoesusp/Processador-ICMC
+In 2016 there were discussions about writing a book around the [AP9 processor
+developed at ICMC-USP](https://github.com/simoesusp/Processador-ICMC).
 
 So Pong was ported to the Terasic DE2 115 board and then to the DE0 board and
 the code was cleaned up to make it more interesting as an educational example
 in the book.
 
-Except for this file, all material in this respository is in Portuguese.
+Except for this file, all material in this respository is in Portuguese,
+starting with [LEIAME.md](LEIAME.md).
