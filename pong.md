@@ -12,6 +12,8 @@
 
 ## Jogo
 
+![Flip flop SR](gerados/ffsr.svg)
+
 ![Jogo](gerados/jogo.svg)
 
 ![Raquete](gerados/raquete.svg)
